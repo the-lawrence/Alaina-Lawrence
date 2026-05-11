@@ -2,8 +2,8 @@
 title: "About Me"
 ---
 
-### About Me
+### ![Here's who you'll get to work with!](images/Alaina Headshot.JPG)About Me
 
-:::{#hero-heading}
-
-Alaina Lawrence is the Business Consultant at WomenVenture and a student in the Ecosystem Science & Sustainability Professional Science Master's program at Colorado State University. Alaina has 10 years of experience in Midwestern food systems, 6 years of experience in non-profit administration, and 4 years of sustainability expertise
+::: {#hero-heading}
+Alaina Lawrence is the Business Consultant at WomenVenture, a Planning Analyst contracting with Kane County Development & Community Services, and a student in the Ecosystem Science & Sustainability Professional Science Master's program at Colorado State University. Alaina has 10 years of experience in Midwestern food systems, 6 years of experience in non-profit administration, and 4 years of sustainability expertise.
+:::
