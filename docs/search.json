@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "Experience.html",
+    "href": "Experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Independent Planning Analyst - Kane County Development & Community Services | Nov. 2023 - present\nWomenVenture | Business Consultant | Apr. 2026 - present\nWomenVenture | Agriculture & Food Business Development Specialist | Apr. 2024 - present\nWaste Wise - Minnesota Chamber of Commerce | Sustainability Specialist | Jun. 2023 - Apr. 2024"
+  },
+  {
+    "objectID": "Experience.html#experience",
+    "href": "Experience.html#experience",
+    "title": "Experience",
+    "section": "",
+    "text": "Independent Planning Analyst - Kane County Development & Community Services | Nov. 2023 - present\nWomenVenture | Business Consultant | Apr. 2026 - present\nWomenVenture | Agriculture & Food Business Development Specialist | Apr. 2024 - present\nWaste Wise - Minnesota Chamber of Commerce | Sustainability Specialist | Jun. 2023 - Apr. 2024"
+  },
+  {
+    "objectID": "Education.html",
+    "href": "Education.html",
+    "title": "Education",
+    "section": "",
+    "text": "Colorado State University | Fort Collins, CO P.S.M in Ecosystem Science & Sustainability | Jan. 2026 - Jun. 2027\nColorado State University | Fort Collins, CO Certificate in Public Policy Analysis | Jan. 2025 - Jun. 2026\nUniversity of Minnesota Duluth | Duluth, MN B.A in Environment, Sustainability, & Geography | Aug. 2018 - Dec. 2020\nUniversity of Minnesota Duluth | Duluth, MN Certificate in Geographic Information Science | Aug. 2018 - Dec. 2020\nUniversity of Minnesota Duluth | Duluth, MN Certificate in Sustainability Leadership | Aug. 2018 - Dec. 2020"
+  },
+  {
+    "objectID": "Education.html#education",
+    "href": "Education.html#education",
+    "title": "Education",
+    "section": "",
+    "text": "Colorado State University | Fort Collins, CO P.S.M in Ecosystem Science & Sustainability | Jan. 2026 - Jun. 2027\nColorado State University | Fort Collins, CO Certificate in Public Policy Analysis | Jan. 2025 - Jun. 2026\nUniversity of Minnesota Duluth | Duluth, MN B.A in Environment, Sustainability, & Geography | Aug. 2018 - Dec. 2020\nUniversity of Minnesota Duluth | Duluth, MN Certificate in Geographic Information Science | Aug. 2018 - Dec. 2020\nUniversity of Minnesota Duluth | Duluth, MN Certificate in Sustainability Leadership | Aug. 2018 - Dec. 2020"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "About Me\n\nAlaina Lawrence is the Business Consultant at WomenVenture and a student in the Ecosystem Science & Sustainability Professional Science Master’s program at Colorado State University. Alaina has 10 years of experience in Midwestern food systems, 6 years of experience in non-profit administration, and 4 years of environment and sustainability experience."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Alaina-Lawrence",
+    "section": "",
+    "text": "project: title: “Alaina Lawrence Portfolio” type: website output-dir: docs template: trestles\nwebsite: navbar: left: - text: LinkedIn href: https://www.linkedin.com/in/alaina-lawrence-57a620180/ - text: GitHub href: https://github.com/the-lawrence"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Projects\n\nAnalyzing the Efficacy of Colorado Just Transition | Colorado State University\nAssessment of Watershed Benefit Measures on Agricultural Land | Kane County Development & Community Services\nAgricultural Cooperative for Trees | University of Minnesota Duluth Regional Development Partnership"
+  }
+]

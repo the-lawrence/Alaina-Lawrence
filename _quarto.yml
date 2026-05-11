@@ -10,3 +10,11 @@ website:
         text: Home
       - href: about.qmd
         text: About
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+editor: visual

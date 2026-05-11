@@ -1,9 +1,9 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+### About Me
 
-```{r}
-1 + 1
-```
+:::{#hero-heading}
+
+Alaina Lawrence is the Business Consultant at WomenVenture and a student in the Ecosystem Science & Sustainability Professional Science Master's program at Colorado State University. Alaina has 10 years of experience in Midwestern food systems, 6 years of experience in non-profit administration, and 4 years of environment and sustainability experience.

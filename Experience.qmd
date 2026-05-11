@@ -1,0 +1,17 @@
+---
+title: "Experience"
+format: html
+editor: visual
+---
+
+## Experience
+
+:::{#hero-heading}
+
+Independent Planning Analyst - Kane County Development & Community Services | Nov. 2023 - present
+
+WomenVenture | Business Consultant | Apr. 2026 - present
+
+WomenVenture | Agriculture & Food Business Development Specialist | Apr. 2024 - present
+
+Waste Wise - Minnesota Chamber of Commerce | Sustainability Specialist | Jun. 2023 - Apr. 2024

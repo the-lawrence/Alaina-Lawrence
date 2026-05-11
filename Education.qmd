@@ -1,0 +1,24 @@
+---
+title: "Education"
+format: html
+editor: visual
+---
+
+## Education
+
+:::{#hero-heading}
+
+Colorado State University | Fort Collins, CO
+P.S.M in Ecosystem Science & Sustainability | Jan. 2026 - Jun. 2027
+
+Colorado State University | Fort Collins, CO
+Certificate in Public Policy Analysis | Jan. 2025 - Jun. 2026
+
+University of Minnesota Duluth | Duluth, MN
+B.A in Environment, Sustainability, & Geography | Aug. 2018 - Dec. 2020
+
+University of Minnesota Duluth | Duluth, MN
+Certificate in Geographic Information Science | Aug. 2018 - Dec. 2020
+
+University of Minnesota Duluth | Duluth, MN
+Certificate in Sustainability Leadership | Aug. 2018 - Dec. 2020

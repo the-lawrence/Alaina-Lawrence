@@ -1,0 +1,15 @@
+---
+title: "Projects"
+format: html
+editor: visual
+---
+
+### Projects
+
+:::{#hero-heading}
+
+Analyzing the Efficacy of Colorado Just Transition | Colorado State University
+
+Assessment of Watershed Benefit Measures on Agricultural Land | Kane County Development & Community Services
+
+Agricultural Cooperative for Trees | University of Minnesota Duluth Regional Development Partnership
