@@ -10,12 +10,14 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "Projects"
-        href: Projects.qmd
+      - text: "About Me"
+        href: about.qmd
       - text: "Experience"
         href: Experience.qmd
       - text: "Education"
         href: Education.qmd
+      - text: "Projects"
+        href: Projects.qmd
       - text: "LinkedIn"
         href: https://www.linkedin.com/in/alaina-lawrence-57a620180/
       - text: "GitHub"
