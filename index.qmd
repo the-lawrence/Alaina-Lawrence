@@ -3,8 +3,8 @@ title: "Alaina-Lawrence"
   type: website
   output-dir: docs
   
-image: 
 about: 
+  id: hero-heading
   template: trestles
   image-shape: rounded
   image-width: 15em
@@ -15,9 +15,36 @@ about:
       href: https://github.com/the-lawrence
     - text: Email
       href: mailto:alaina.k.lawrence@gmail.com
+      
+### This content appears above the formatted about page content.
 
-This is a Quarto website.
+:::{#hero-heading}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Alaina Lawrence is the Business Consultant at WomenVenture and a student in the Ecosystem Science & Sustainability Professional Science Master's program at Colorado State University. 
 
-git add assignment_kenya_climate.Rmd
+## Education
+
+Colorado State University | Fort Collins, CO
+P.S.M in Ecosystem Science & Sustainability | Jan. 2026 - Jun. 2027
+
+Colorado State University | Fort Collins, CO
+Certificate in Public Policy Analysis | Jan. 2025 - Jun. 2026
+
+University of Minnesota Duluth | Duluth, MN
+B.A in Environment, Sustainability, & Geography | Aug. 2018 - Dec. 2020
+
+University of Minnesota Duluth | Duluth, MN
+Certificate in Geographic Information Science | Aug. 2018 - Dec. 2020
+
+University of Minnesota Duluth | Duluth, MN
+Certificate in Sustainability Leadership | Aug. 2018 - Dec. 2020
+
+## Experience
+
+Independent Planning Analyst - Kane County Development & Community Services | Nov. 2023 - present
+
+WomenVenture | Business Consultant | Apr. 2026 - present
+
+WomenVenture | Agriculture & Food Business Development Specialist | Apr. 2024 - present
+
+Waste Wise - Minnesota Chamber of Commerce | Sustainability Specialist | Jun. 2023 - Apr. 2024

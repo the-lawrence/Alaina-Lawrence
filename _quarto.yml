@@ -1,18 +1,15 @@
  project: 
   type: website
   output-dir: docs
+  
+  website: 
   title: "Alaina-Lawrence"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-format:
-  html:
+      - about.qmd 
     theme:
       - cosmo
       - brand
     css: styles.css
-    toc: true
-
-editor: visual
