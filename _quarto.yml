@@ -1,20 +1,22 @@
 project:
+  title: "Alaina Lawrence Portfolio"
   type: website
   output-dir: docs
+template: trestles
 
 website:
-  title: "Alaina-Lawrence"
+  title: "Alaina Lawrence Portfolio"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
-
-format:
-  html:
-    theme: flatly
-    css: styles.css
-    toc: true
-
-editor: visual
+      - text: "Home"
+        href: index.qmd
+      - text: "Projects"
+        href: Projects.qmd
+      - text: "Experience"
+        href: Experience.qmd
+      - text: "Education"
+        href: Education.qmd
+      - text: "LinkedIn"
+        href: https://www.linkedin.com/in/alaina-lawrence-57a620180/
+      - text: "GitHub"
+        href: https://github.com/the-lawrence
