@@ -2,7 +2,7 @@ project:
   title: "Alaina Lawrence Portfolio"
   type: website
   output-dir: docs
-template: trestles
+theme: trestles
 
 website:
   title: "Alaina Lawrence Portfolio"
