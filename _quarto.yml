@@ -1,14 +1,12 @@
-project:
+ project: 
   type: website
-
-website:
+  output-dir: docs
   title: "Alaina-Lawrence"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
-
 format:
   html:
     theme:
@@ -18,4 +16,3 @@ format:
     toc: true
 
 editor: visual
-

@@ -1,11 +1,23 @@
 ---
 title: "Alaina-Lawrence"
----
+  type: website
+  output-dir: docs
+  
+image: 
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/alaina-lawrence-57a620180/ 
+    - text: GitHub
+      href: https://github.com/the-lawrence
+    - text: Email
+      href: mailto:alaina.k.lawrence@gmail.com
 
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+git add assignment_kenya_climate.Rmd
